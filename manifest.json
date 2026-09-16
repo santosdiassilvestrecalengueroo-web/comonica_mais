@@ -1,0 +1,11 @@
+{
+    "name": "Comunica+",
+    "short_name": "Comunica+",
+    "description": "Aplicação de comunicação por voz e texto",
+    "start_url": "index.php",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#198754",
+    "orientation": "portrait-primary",
+    "icons": []
+}
